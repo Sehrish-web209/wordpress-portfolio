@@ -49,7 +49,11 @@ Apache and MySQL were used to run the WordPress environment locally.
 
 📸## Project Preview
 
-Screenshots of the website will be added here to showcase the main pages and sections.
+## Home Page
+
+![Home Page](screenshots/Home%20page.png)
+
+**[See More Screenshots →](screenshots/)**
 
 📚## Learning Outcomes
 
