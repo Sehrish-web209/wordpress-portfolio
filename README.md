@@ -47,11 +47,11 @@ C:\xampp\htdocs\WordPress
 
 Apache and MySQL were used to run the WordPress environment locally.
 
-📸## Project Preview
+##📸 Project Preview
 
 ## Home Page
 
-![Home Page](screenshots/Home%20page.png)
+![Home Page](screenshots/Home%20pg.png)
 
 **[See More Screenshots →](screenshots/)**
 
