@@ -12,15 +12,15 @@ A contact form plugin was also integrated to provide a working contact form for 
 
 ## ✨ Features
 
-- 🏠 Home Page
-- 👩‍💻 About Me
-- 🛠️ Skills
-- 💻 Projects
-- 📝 Blog
-- 🚀 Developer Journey
-- 📩 Contact Page
-- 📋 Working Contact Form
-- 📱 Clean and user-friendly interface
+- Home Page
+- About Me
+- Skills
+- Projects
+- Blog
+- Developer Journey
+- Contact Page
+- Working Contact Form
+- Clean and user-friendly interface
 
 ## 🛠️ Technologies & Tools
 
@@ -43,6 +43,7 @@ The project was developed and tested locally using XAMPP.
 
 ```text
 C:\xampp\htdocs\WordPress
+```
 
 Apache and MySQL were used to run the WordPress environment locally.
 
@@ -54,19 +55,19 @@ Screenshots of the website will be added here to showcase the main pages and sec
 
 Through this project, I gained practical experience in:
 
-Working with WordPress
+- Working with WordPress
 
-Setting up WordPress locally using XAMPP
+- Setting up WordPress locally using XAMPP
 
-Creating and managing website content
+- Creating and managing website content
 
-Customizing WordPress design and styling
+- Customizing WordPress design and styling
 
-Working with themes and plugins
+- Working with themes and plugins
 
-Integrating a contact form
+- Integrating a contact form
 
-Managing a project using Git and GitHub
+- Managing a project using Git and GitHub
 
 
 🚀 Future Improvements
@@ -90,6 +91,3 @@ A live demo link will be added after deployment to a WordPress-compatible hostin
 
 Sehrish Maqbool
 IT Undergraduate
-
-
-**Ye final version main recommend karungi.** Ismein project ka **purpose + features + tech stack + design + environment + preview + learning outcomes + future scope + live demo + author** sab cover ho raha hai, lekin full project documentation nahi ban rahi.
