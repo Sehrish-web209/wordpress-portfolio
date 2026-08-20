@@ -47,7 +47,7 @@ C:\xampp\htdocs\WordPress
 
 Apache and MySQL were used to run the WordPress environment locally.
 
-##📸 Project Preview
+## 📸 Project Preview
 
 ## Home Page
 
@@ -55,7 +55,7 @@ Apache and MySQL were used to run the WordPress environment locally.
 
 **[See More Screenshots →](screenshots/)**
 
-📚## Learning Outcomes
+## 📚 Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -73,13 +73,14 @@ Through this project, I gained practical experience in:
 
 - Managing a project using Git and GitHub
 
-🌐## Live Demo
+## 🌐 Live Demo
 
 The project is currently developed and tested locally using XAMPP.
 
 A live demo link will be added after deployment to a WordPress-compatible hosting platform.
 
-👩‍💻## Author
+## 👩‍💻 Author
 
 Sehrish Maqbool
+
 IT Undergraduate
