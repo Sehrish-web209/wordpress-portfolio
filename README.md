@@ -77,8 +77,6 @@ Through this project, I gained practical experience in:
 
 The project is currently developed and tested locally using XAMPP.
 
-A live demo link will be added after deployment to a WordPress-compatible hosting platform.
-
 ## 👩‍💻 Author
 
 Sehrish Maqbool
